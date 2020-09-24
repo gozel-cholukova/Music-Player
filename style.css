@@ -105,9 +105,9 @@ img {
 .audio-btns {
   background: #ff012f;
   margin: 20px auto;
-  height: 350px;
+  height: 190px;
   width: 100%;
-  border-radius: 38%;
+  /* border-radius: 50%; */
   text-align: center;
 }
 
@@ -121,7 +121,7 @@ img {
 .play-btns a {
   color: #fff;
   margin: 0 30px;
-  font-size: 1.5em;
+  font-size: 1em;
   transition: all 0.5;
 }
 
