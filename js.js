@@ -1,6 +1,6 @@
 let fillbar = document.querySelector(".fill");
-let audios = ["Audio_One.mp3", "Audio_Two.mp3", "Audio_Three.mp3"];
-let covers = ["cover1.jpg", "cover2.jpg", "cover3.jpg"];
+let audios = ["./audio/Audio_One.mp3", "./audio/Audio_Two.mp3", "./audio/Audio_Three.mp3"];
+let covers = ["./img/cover1.jpg", "./img/cover2.jpg", "./img/cover3.jpg"];
 let currentTime = document.querySelector(".time");
 
 // Create An Object Of Audio
